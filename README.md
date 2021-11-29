@@ -1,6 +1,6 @@
 ### Hi there, I'm Eliot - aka [eliot404][website] 👋 
 
-[![Website](https://img.shields.io/website?label=shrimps.dev&style=for-the-badge&url=https%3A%2F%2Fshrimps.dev)](https://shrimps.dev)
+[![Website](https://img.shields.io/website?label=shrimps.dev&style=for-the-badge&url=https%3A%2F%2Fthenorthdiets.com)](https://thenorthdiets.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/justicepaco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/justicepaco)
 
 ## I'm a Programmer, Devloper, Artist, and Researcher!!
