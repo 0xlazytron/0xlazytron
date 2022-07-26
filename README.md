@@ -1,9 +1,9 @@
 ### Hi there, I'm Eliot - aka [eliot404][website] 👋 
 
-[![Website](https://img.shields.io/website?label=shrimps.dev&style=for-the-badge&url=https%3A%2F%2Fthenorthdiets.com)](https://thenorthdiets.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/justicepaco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/justicepaco)
+[![Website](https://img.shields.io/website?label=crown.dev&style=for-the-badge&url=https%3A%2F%2F)](https://thenorthdiets.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lazy_tron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lazy_tron)
 
-## I'm a Programmer, Devloper, Artist, and Researcher!!
+## I'm a Programmer, Developer, Artist, and Researcher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
