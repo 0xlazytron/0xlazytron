@@ -1,7 +1,7 @@
-### Hi there, I'm Eliot - aka [eliot404][website] 👋 
+### Hi there, I'm Babar Raza - aka [0xlazytron][website] 👋 
 
-[![Website](https://img.shields.io/website?label=shrimp.dev&style=for-the-badge&url=https%3A%2F%2F)]([https://thenorthdiets.com](https://twitter.com/lazy_tron))
-[![Twitter Follow](https://img.shields.io/twitter/follow/lazy_tron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lazy_tron)
+[![Website](https://img.shields.io/website?label=shrimp.dev&style=for-the-badge&url=https%3A%2F%2F)]([https://thenorthdiets.com](https://twitter.com/0xlazytron))
+[![Twitter Follow](https://img.shields.io/twitter/follow/lazy_tron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
 
 ## I'm a Programmer, Developer, Artist, and Researcher!!
 
