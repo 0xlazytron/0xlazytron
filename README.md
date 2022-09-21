@@ -1,7 +1,7 @@
 ### Hi there, I'm Babar Raza - aka [0xlazytron][website] 👋 
 
 [![Website](https://img.shields.io/website?label=shrimp.dev&style=for-the-badge&url=https%3A%2F%2F)]([https://thenorthdiets.com](https://twitter.com/0xlazytron))
-[![Twitter Follow](https://img.shields.io/twitter/follow/lazy_tron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xlazytron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
 
 ## I'm a Programmer, Developer, Artist, and Researcher!!
 
@@ -14,10 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="thenorthdiets.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ELIOT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ELIOT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ELIOT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ELIOT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="0xlazytron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="0xlazytron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="0xlazytron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="0xlazytron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -48,14 +48,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ELIOT News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [ELIOT News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [ELIOT News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [ELIOT News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
+- [0xlazytron News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
+- [0xlazytron News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
+- [0xlazytron News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
+- [0xlazytron News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
 - [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
+➡️ [more videos...](https://www.youtube.com/channel/UChS9aQ7LKcFsfQ1KVMWX5vw)
 
 ---
 
@@ -89,16 +89,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Eliot's GitHub Stats" src="www.shrimps.dev" />
+  <img align="left" alt="0xlazytron GitHub Stats" src="www.shrimps.dev" />
 
 </details>
 
 [website]: https://facebook.com/blueimlee
-[twitter]: https://twitter.com/justicepaco
-[youtube]: https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg
-[instagram]: https://instagram.com/raxa_babar
+[twitter]: https://twitter.com/0xlazytron
+[youtube]: https://www.youtube.com/babarraza
+[instagram]: https://instagram.com/0xlazytron
 [linkedin]: https://linkedin.com/in/eliot404
-[webdevplaylist]: https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg
-[jsplaylist]:https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg
-[cssplaylist]: https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg
-[reactplaylist]:https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg
+
