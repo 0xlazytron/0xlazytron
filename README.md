@@ -1,6 +1,7 @@
 ### Hi there, I'm Babar Raza - aka [0xlazytron][website] 👋 
 
-[![Website](https://img.shields.io/website?label=shrimps.dev&style=for-the-badge&url=https%3A%2F%2F)]([https://thenorthdiets.com](https://twitter.com/0xlazytron))
+[![Website]([https://shrimps.dev](https://shrimps.dev))
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xlazytron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xlazytron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
 
 ## I'm a Programmer, Developer, Artist, and Researcher!!
