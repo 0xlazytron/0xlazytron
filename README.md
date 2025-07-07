@@ -73,9 +73,9 @@ RUST, AND MULTIPLE BLOCKCHAIN ECOSYSTEMS INCLUDING ETHEREUM AND SOLANA.
 ┃       METRICS       ┃
 ┗━━━━━━━━━━━━━━━━━━━━┛
 
-PROJECTS    :: 18+
-EXPERIENCE  :: 3+ Yrs
-CLIENTS     :: 50+
+PROJECTS    :: 200+
+EXPERIENCE  :: 5+ Yrs
+CLIENTS     :: 82+
 ```
 
 <p align="center">
