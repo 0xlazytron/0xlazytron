@@ -1,89 +1,204 @@
-### Hi there, I'm Babar Raza - aka [0xlazytron][website] 👋 
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&duration=3500&pause=1000&color=0EF7C3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=0xLazyTron" alt="Header" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=3000&pause=1000&color=0EF7C3&center=true&vCenter=true&width=600&lines=BLOCKCHAIN+DEVELOPER_INITIALIZING...;SYSTEM+ACCESS+GRANTED;LOADING+SKILLS+[===========];SKILL_MODULES+READY+FOR+EXECUTION" alt="Typing SVG" />
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xlazytron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xlazytron)
+<br/>
 
-## I'm a Programmer, Developer, Artist, and Researcher!!
+<!-- Main cyberpunk frame -->
+<p align="center">
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- ⚡ Esports fun : I love to play Games / Multiplayer
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⣛⣛⣛⣛⣛⣛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⠟⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣝⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⠟⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣎⠻⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀
 
-### Connect with me:
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+┃                       [  DESCRIPTION  ]                                    ┃
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-[<img align="left" alt="thenorthdiets.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="0xlazytron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="0xlazytron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="0xlazytron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="0xlazytron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+FULL-STACK BLOCKCHAIN DEVELOPER SPECIALIZING IN SMART CONTRACT DEVELOPMENT, 
+WEB3 INTEGRATION, AND DECENTRALIZED APPLICATIONS. PROFICIENT IN SOLIDITY, 
+RUST, AND MULTIPLE BLOCKCHAIN ECOSYSTEMS INCLUDING ETHEREUM AND SOLANA.
+```
 
-<br />
+<p align="center">
+  <a href="#tech_stack">
+    <img src="https://img.shields.io/badge/⬢_TECH_STACK-0ef7c3?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="#stats">
+    <img src="https://img.shields.io/badge/⬢_STATS-0ef7c3?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/⬢_PROJECTS-0ef7c3?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/⬢_CONNECT-0ef7c3?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
 
-### Languages and Tools:
+```
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+┃                       [  TECH_STACK  ]                                     ┃
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-<br />
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-0ef7c3?style=for-the-badge&logo=solidity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-0ef7c3?style=for-the-badge&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethereum-0ef7c3?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solana-0ef7c3?style=for-the-badge&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-0ef7c3?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-0ef7c3?style=for-the-badge&logo=next.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Svelte-0ef7c3?style=for-the-badge&logo=svelte&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-0ef7c3?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM/AI-ffde1e?style=for-the-badge&logoColor=black" />
+</p>
 
----
+```
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+┃                           [  STATS  ]                                      ┃
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
-### 📺 Latest YouTube Videos
+```
+┏━━━━━━━━━━━━━━━━━━━━┓
+┃       METRICS       ┃
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-<!-- YOUTUBE:START -->
-- [0xlazytron News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [0xlazytron News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [0xlazytron News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [0xlazytron News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-<!-- YOUTUBE:END -->
+PROJECTS    :: 18+
+EXPERIENCE  :: 3+ Yrs
+CLIENTS     :: 50+
+```
 
-➡️ [more videos...](https://www.youtube.com/channel/UChS9aQ7LKcFsfQ1KVMWX5vw)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xLazyTron&theme=dark&background=00000000&border=00000000&stroke=0ef7c3&ring=0ef7c3&fire=ffde1e&currStreakNum=0ef7c3&sideNums=0ef7c3&currStreakLabel=ffde1e&sideLabels=ffde1e&dates=ffffff" alt="GitHub Streak" />
+</p>
 
----
+```
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+┃                    [  FEATURED_PROJECTS  ]                                 ┃
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
-### 📕 Latest Blog Posts
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" align="center">
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [Microinteractions: Password Validation Animation](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-- [Emmet Part 2 - Advanced](https://www.youtube.com/channel/UCezwCYIUtlmZ0sryN47YDsg)
-<!-- BLOG-POST-LIST:END -->
+```
+┏━━━━━━━━━━━━━━━━━━━━┓
+┃       Asvoria       ┃
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-➡️ [more blog posts...](https://shrimps.dev)
+Blockchain marketplace
+platform on Solana with
+NFT integration and
+custom token support.
 
----
+[Solana] [Rust]
+```
+<a href="https://asvoria.io">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0ef7c3?style=for-the-badge&logoColor=black" />
+</a>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/eliot404/Baby_Care) in [eliot404/Baby_Care](https://github.com/eliot404/Baby_Care)
-2. ❗️ Closed issue [#2](https://github.com/eliot404/Baby_Care) in [eliot404/Baby_Care]https://github.com/eliot404/Baby_Care)
-3. ❌ Closed PR [#11](https://github.com/eliot404/Baby_Care) in [eliot404/Baby_Care](https://github.com/eliot404/Baby_Care)
-4. 🗣 Commented on [#11](https://github.com/eliot404/Uber_with_new_concepts) in [eliot404/Uber_with_new_concepts](https://github.com/eliot404/Uber_with_new_concepts)
-5. 🎉 Merged PR [#10](https://github.com/eliot404/Uber_with_new_concepts) in [eliot404/Uber_with_new_concepts)](https://github.com/eliot404/Uber_with_new_concepts)
-<!--END_SECTION:activity-->
+</td>
+<td width="33%" align="center">
 
-</details>
+```
+┏━━━━━━━━━━━━━━━━━━━━┓
+┃      BrokeCoin      ┃
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+Solana token ecosystem
+with staking rewards
+and on-chain governance
+mechanisms.
 
-  <img align="left" alt="0xlazytron GitHub Stats" src="www.shrimps.dev" />
+[Solana] [Anchor]
+```
+<a href="https://brokecoinonsol.com/">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0ef7c3?style=for-the-badge&logoColor=black" />
+</a>
 
-</details>
+</td>
+<td width="33%" align="center">
 
-[website]: https://shrimps.dev
-[twitter]: https://twitter.com/0xlazytron
-[youtube]: https://www.youtube.com/babarraza
-[instagram]: https://instagram.com/0xlazytron
-[linkedin]: https://linkedin.com/in/eliot404
+```
+┏━━━━━━━━━━━━━━━━━━━━┓
+┃       USSD.ai       ┃
+┗━━━━━━━━━━━━━━━━━━━━┛
 
+AI-blockchain integration
+platform with LLM agents
+and smart contract
+automation.
+
+[AI] [Ethereum]
+```
+<a href="https://ussd.ai/">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0ef7c3?style=for-the-badge&logoColor=black" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/0xLazyTron?tab=repositories">
+    <img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-ffde1e?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
+
+```
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+┃                    [  CONNECT_TERMINAL  ]                                  ┃
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
+
+```
+root@0xLazyTron:~$ connect --network social
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⢿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+SOCIAL CONNECTIONS ESTABLISHED...
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/0xlazytron">
+    <img src="https://img.shields.io/badge/›_LinkedIn-0ef7c3?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://fiverr.com/rich_dev">
+    <img src="https://img.shields.io/badge/›_Fiverr-0ef7c3?style=for-the-badge&logo=fiverr&logoColor=black" />
+  </a>
+  <a href="https://upwork.com/freelancers/0xlazytron">
+    <img src="https://img.shields.io/badge/›_Upwork-0ef7c3?style=for-the-badge&logo=upwork&logoColor=black" />
+  </a>
+</p>
+
+```
+root@0xLazyTron:~$ █
+```
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+</p>
+
+<p align="center">
+  <code style="color:#0ef7c3">v2.3.1</code> © 0xLazyTron • <code style="color:#ffde1e">[SYS:ONLINE]</code>
+</p>
